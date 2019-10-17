@@ -1,0 +1,9 @@
+[submodule "drone-monitoring"]
+	path = drone-monitoring
+	url = https://github.com/slapbot/drone-monitoring
+[submodule "SmartFlightContract"]
+	path = SmartFlightContract
+	url = https://github.com/slapbot/SmartFlightContract
+[submodule "drone-detection"]
+	path = drone-detection
+	url = https://github.com/slapbot/drone-detection
