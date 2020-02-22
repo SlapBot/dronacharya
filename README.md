@@ -2,14 +2,14 @@
 
 Drone and UAV traffic management system to address detection of drones and UAVs, unlawful trespassing by drones, collision avoidance, route monitoring and much more.
 
-Live at: [dronacharya.slapbot.ml](http://dronacharya.slapbot.ml)
+Live at: [dronacharya.slapbot.me](http://dronacharya.slapbot.me)
 ## Whats it about?
 
 - Prototyped in [MoveHack](http://pib.gov.in/newsite/PrintRelease.aspx?relid=181379) - Was selected as top 10 overall solutions across all challenge themes among [7,500 individuals and 3,000 teams](https://www.thehindubusinessline.com/info-tech/7500-individuals-register-for-movehack-niti-aayogs-global-mobility-hackathon/article24736986.ece) that globally competed for Hackathon.
 
 - Won the cash prize of ₹10,00,000 and received an invitation to attend the [Global Mobility Summit 2018](http://movesummit.in/about.php) at Vigyan Bhawan, Delhi by NITI AAYOG to meet major CEOs across automobiles, aviation, mobility organisations and receive the award by Prime Minister of India, Narendra Modi.
 
-- [Detecting Drones](https://github.com/slapbot/drone-detection) Using Fast R-CNN of resnet50 model trained with publically available images, [Smart-contract](https://github.com/slapbot/SmartFlightContract) based Flight plan approval subject to risk factors (evaluated programmatically), Multiple entities (DGCA, city/state governments) will digitally sign the approval and publish on a permissioned blockchain. (indium.network), Shows all drones and geofences on [satellite map](http://dronacharya.slapbot.ml/dashboard/monitoring), In case of violation, alerts both the operator and authorities.
+- [Detecting Drones](https://github.com/slapbot/drone-detection) Using Fast R-CNN of resnet50 model trained with publically available images, [Smart-contract](https://github.com/slapbot/SmartFlightContract) based Flight plan approval subject to risk factors (evaluated programmatically), Multiple entities (DGCA, city/state governments) will digitally sign the approval and publish on a permissioned blockchain. (indium.network), Shows all drones and geofences on [satellite map](http://dronacharya.slapbot.me/dashboard/monitoring), In case of violation, alerts both the operator and authorities.
 
 ## Links
 
